@@ -1,2 +1,3 @@
 # Complete-Python-Bootcamp
-This is a course I've been doing and I'll be doing this course on the daily basis and upload my progress over here
+# Master the theory, practice,and math behind Data Science,Machine Learning,Deep Learning,NLP with end to end projects
+This is a Udemy course I've been doing and I'll be uploading my progress over here on the daily basis
